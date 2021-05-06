@@ -1,16 +1,15 @@
-### Hi there 👋
+# What's up guys, my name is Jonas Freire.
 
-<!--
-**Jonnas-freire/jonnas-freire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="30%" backgroundColor="#0D1117" align="right" src="https://i.pinimg.com/originals/0e/8b/ba/0e8bba3b043d49c8064324bedd01997f.gif">
 
-Here are some ideas to get you started:
+I'm a passionate technology student.<br>
+I am currently studying Systems Analysis and Development<br> at IFCE - Federal Institute of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-  I’m currently learning:
+    **ReactJs** - **React-Native**
+-  I’m looking to collaborate on *Open-source projects*
+
+### Find me on:
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-6633cc?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)](https://www.linkedin.com/in/jonas-de-sousa-freire-895197106/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/user.022c/?hl=pt-br)](https://www.instagram.com/user.022c/?hl=pt-br) 
