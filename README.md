@@ -1,5 +1,3 @@
-# What's up guys.
-
 <img width="30%" backgroundColor="#0D1117" align="right" src="Product School.jfif">
 
 I'm a passionate technology student.<br>
